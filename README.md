@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi there! 👋 I'm [Your Name]
+Hi there! 👋 I'm Vedant
 🎓 Computer Science Engineering Student
 
 💻 Passionate about coding, problem-solving, and building full-stack applications.
@@ -24,14 +24,8 @@ System programming with C/C++
 Full-stack web development
 Open-source contributions
 Learning and working on DevOps tools and practices
-📫 How to reach me:
-Email: [your.email@example.com]
-LinkedIn: LinkedIn Profile
-Projects
-Check out some of my personal projects:
 
-Project 1 Name - Short description of the project.
-Project 2 Name - Short description of the project.
+
 Feel free to explore my repositories and contribute to open-source! Let's build something awesome together! 🚀
 <!--
 **VedantBin/VedantBin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
